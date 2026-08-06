@@ -200,7 +200,50 @@ div span i {
     background-color: #FFFFFF;
     padding: 100px 0;
 }
+/* login page */
 
+.login-page {
+    background-color: #F5F5F5;
+    padding: 100px 0;
+}
+
+.login-card {
+    max-width: 500px;
+    margin: auto;
+    background-color: #FFFFFF;
+    border-radius: 18px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    padding: 40px;
+}
+
+.login-card h2 {
+    font-weight: 700;
+    color: #272727;
+    margin-bottom: 24px;
+}
+
+.login-card .form-control {
+    border-radius: 10px;
+    padding: 18px 16px;
+}
+
+.login-card .btn-success {
+    width: 100%;
+    border-radius: 10px;
+    padding: 14px;
+}
+
+.login-card .login-footer {
+    text-align: center;
+    margin-top: 18px;
+    color: #757575;
+}
+
+.login-card .login-footer a {
+    color: #A5C422;
+    text-decoration: none;
+    font-weight: 600;
+}
 .card-news img {
     width: 100%;
     border-radius: 5px 5px 0px 0px;
